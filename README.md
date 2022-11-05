@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [https://webcurat.com](https://webcurat.com)
 - 🌱 I’m currently learning .NET
 - 👯 I’m looking to collaborate on Innovative projects
-- 💬 Ask me about PHP/Laravel, Nodejs, Jquery
+- 💬 Ask me about Flutter, PHP/Laravel, Code Igniter, Nodejs, & Vue
 - 📫 How to reach me: [@francis94c](https://twitter.com/francis94c)
 - ⚡ Fun fact: I love playstaion, comedy, and anime
