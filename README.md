@@ -10,8 +10,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [https://webcurat.com](https://webcurat.com)
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently building a Laravel-inspired Back-End framework in Dart
 - 👯 I’m looking to collaborate on Innovative projects
-- 💬 Ask me about Flutter, PHP/Laravel, Code Igniter, Nodejs, & Vue
+- 💬 Ask me about Dart, Flutter, Laravel, Code Igniter, Nodejs, & Vue
 - 📫 How to reach me: [@francis94c](https://twitter.com/francis94c)
-- ⚡ Fun fact: I love playstaion, comedy, and anime
+- ⚡ Fun fact: I love playstation, comedy, and anime
