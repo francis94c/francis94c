@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Innovative projects
 - 💬 Ask me about Dart, Flutter, Laravel, Code Igniter, Nodejs, & Vue
 - 📫 How to reach me: [@francis94c](https://twitter.com/francis94c)
-- ⚡ Fun fact: I love playstation, comedy, and anime
+- ⚡ Fun fact: I love play station, comedy, and anime
